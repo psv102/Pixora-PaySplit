@@ -1,0 +1,6 @@
+{
+  "name": "PaySplit — Платформа мультисплитования",
+  "description": "Презентационный лендинг White-Label платформы для приёма платежей с мультисплитованием и онлайн-кассой",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
